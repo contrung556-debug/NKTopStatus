@@ -1,0 +1,9 @@
+Package: com.nk.topstatus
+Name: NK Top Status
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Description: Mini progress/status overlay at the top of the screen for AutoTouch scripts.
+Maintainer: NK
+Author: NK
+Section: Tweaks
+Depends: mobilesubstrate
